@@ -35,6 +35,94 @@ KNOWN = {
     "Physical Processes & Mathematical Modeling": "bHg7_d_D0_8",
     "Numerical Errors (1/2)": "b1CFNSR3f40",
     "Numerical Errors (2/2)": "03Lg60MTSdM",
+    # Confirmed by Jaisohn (from unconfirmed_videos.md):
+    "Tips for Success": "xTyHBlfpBPI",
+    "What is ME 2004?": "2wmRbFlLDec",
+    "Matrix Terminology Review": "OwTsm3aCQMY",
+    "MATLAB Environment, Script Files, and Publishing": "qx6NQAIx7-Y",
+    "MATLAB Basics": "mw-zAnGnEsM",
+    "The fprintf() Command": "P0X3iDqHYRw",
+    "Plotting": "1bgfMs_44NE",
+    "Bell Curve": "mWJWb-uBwaU",
+    "Hookian Springs": "1RgVqHmqwZo",
+    "RLC Circuit": "X4wmyrQUi-8",
+    "Manning's Equation": "Q2Qkd1mnGAc",
+    "MATLAB Grader Overview": "WHYLlmw4wO8",
+    "Function .m Files (1/2)": "uLVJNrlBW5Y",
+    "Function .m Files (2/2)": "dxRRl6Yh8-c",
+    "Anonymous Functions (1/2)": "qHTfGIqK04k",
+    "Anonymous Functions (2/2)": "KRb4Oetbkq4",
+    "Lateral Acceleration of a Vehicle (1/2)": "3m1gJ-L7dHo",
+    "Lateral Acceleration of a Vehicle (2/2)": "qY0aqMuFT3c",
+    "Unit Step Function (1/2)": "G3txcntNZWQ",
+    "Unit Step Function (2/2)": "U5Jx2N0ezG4",
+    "Linear Algebra Intro": "JJgJZzDawNo",
+    "Solving Linear Algebra Problems in MATLAB": "P1NyusxiLEY",
+    "Existence and Uniqueness of Solutions": "lI9g9rwwRtg",
+    "Rope Tension (1/2)": "MRPWcAlhHAs",
+    "Rope Tension (2/2)": "9IkSMr9ivPc",
+    "Wheatstone Bridge (1/2)": "THIdS9IW714",
+    "Wheatstone Bridge (2/2)": "nZOg15CLsWk",
+    "Column Elongation": "Ys1DgXpQgd4",
+    "Traffic Network (1/2)": "HgdSAe8tqNs",
+    "Traffic Network (2/2)": "A5AvITOu5jE",
+    "Matrix Inverse": "xN8TOBw2nGg",
+    "Vector/Matrix Norms": "y0AjJeeWoNM",
+    "Reactor Concentrations": "OvQBZ7JB49c",
+    "Truss (1/2)": "qlB3zagYYR8",
+    "Truss (2/2)": "NxTFpE16Fzk",
+    "Curve Fitting (1/2)": "nBqCxq3Kp3g",
+    "Curve Fitting (2/2)": "7oa-XQ5IK6I",
+    "Charles's Law": "ZG2EIxMLyzY",
+    "Nonlinear Regression": "NE4zAVloQPI",
+    "RC Circuit": "pPDnvHlziQM",
+    "Animal Metabolism": "m5b-xEbpuiI",
+    "Nonlinear Regression Example 3": "zeHw9t_uHh4",
+    "Polynomial Regression Example": "LOUYI84mog0",
+    "Linear Interpolation (1/2)": "Yrvch1CEEtk",
+    "Linear Interpolation (2/2)": "eV_JDYaW9Jo",
+    "Steam Table Interpolation": "pY11wvM5i3o",
+    "Root Finding Introduction": "UovsP6ACfJQ",
+    "Root Finding: Graphical Method": "wGakH9DmmZU",
+    "Bisection Method": "Njyro3rv0XE",
+    "Manual Iterations of the Bisection Method": "2Va6bcNQ-6A",
+    "MATLAB Implementation of the Bisection Method": "qBZoadV3v2o",
+    "Critical Channel Depth": "Zq-jTyxsWqc",
+    "Newton-Raphson Method": "Cavm4RduP80",
+    "Manual Iterations of the Newton-Raphson Method": "MOineRasURA",
+    "MATLAB Implementation of the Newton-Raphson Method": "nW6tkLhBiIQ",
+    "ODE Fixed Points": "DbZYXtFMV50",
+    "The fzero() Function": "e9SRGH-u_2g",
+    "Redlich–Kwong Equation": "2pnTsHo2qSM",
+    "Population Study": "aGTYUodsz0g",
+    "Moody Diagram (1/2)": "B5aHPHHZWbE",
+    "Moody Diagram (2/2)": "SOq6UllvA1c",
+    "Numerical Differentiation": "CcDY8I9z2us",
+    "Stopping Distances": "-2GGYsdim1A",
+    "Vehicle Pitch Rate (1/2)": "IMYsqbV4CEg",
+    "Vehicle Pitch Rate (2/2)": "JHtjmvLTGR4",
+    "Numerical Differentiation: Step Size Exploration": "e5JsPcfEC9s",
+    "Integration Review": "eeW88rkKBD0",
+    "Step/Delta Integrals": "bneVK6GBBxE",
+    "Pulse Function (1/2)": "PFDM-bwjq-s",
+    "Pulse Function (2/2)": "Ta_LFoBSrQ0",
+    "Trapezoidal Rule Review": "OuvMKQGCIBc",
+    "Trapezoidal Rule Demo": "q9FxdW0tIDE",
+    "Shear/Moment Diagrams": "FV_fAFvwKwk",
+    "Mechanical Work": "C-6f8klg_n8",
+    "Space-Time Diagrams": "CgSjAtgx_Lk",
+    "ODEs Introduction": "obpHjzM4vxs",
+    "1st Order ODEs Overview": "gA7WfmAiyX0",
+    "Sketching Phase Portraits and Anticipated Solutions (1/3)": "dnmNhx7sJ5g",
+    "Sketching Phase Portraits and Anticipated Solutions (2/3)": "lSVQUod8QOU",
+    "Sketching Phase Portraits and Anticipated Solutions (3/3)": "UGHyO2brTcw",
+    "The ode45() Function": "2kaERUM27NM",
+    "Skydiver (1/2)": "HkWPMrqjsBU",
+    "Skydiver (2/2)": "IIth5JFIlHs",
+    "Population Model (1/2)": "KVDGSkkPTMs",
+    "Population Model (2/2)": "cmMDewgmtwM",
+    "Lumped Thermal Mass (1/2)": "Nn76G7HN3v0",
+    "Lumped Thermal Mass (2/2)": "EeeNJ5rEYdE",
 }
 
 def video_link(title, note=None):
@@ -46,34 +134,35 @@ def video_link(title, note=None):
     return f"{CHANNEL}/search?query={q}", False
 
 # ---------------------------------------------------------------------------
-# Structured schedule data (transcribed from Canvas Shell Su22.docx images)
+# Structured schedule data (transcribed from Canvas Shell Su22.docx images).
+# Calendar dates and textbook (Vick) readings have been intentionally
+# omitted -- only weekday order, topics, readings, and lecture videos remain.
 # ---------------------------------------------------------------------------
 WEEKS = [
   dict(
-    num=1, dates="July 4 – July 10, 2022",
+    num=1,
     blurb="""The first week of class is dedicated to reviewing MATLAB fundamentals. We're operating under
     the assumption that everyone has at least some prior MATLAB experience. Wednesday's videos introduce
     the course. Thursday's videos contain examples covering various facets of MATLAB (plotting, working
     with vectors, etc.). Friday's videos cover flow control. HW 1 only covers Wednesday's and Thursday's
     videos, but HW 2 (next week) includes Friday's videos.""",
     days=[
-      dict(date="Monday, July 4", note="No class — Enjoy the 4th of July!"),
-      dict(date="Tuesday, July 5", note="No class (first day of class is Wednesday, July 6)"),
-      dict(date="Wednesday, July 6",
+      dict(date="Monday", note="No class."),
+      dict(date="Tuesday", note="No class (first day of class is Wednesday)"),
+      dict(date="Wednesday",
         readings=["Course Introduction, Overview, and Layout", "Homework Formatting and Submission Guidelines",
                    "Plot Formatting Guidelines", "All About MATLAB Grader Workshops", "Debugging Help",
-                   "ME 2004 Syllabus and Schedule Su22.pdf", "Vick Ch 1 (skip 1.4.3)",
+                   "ME 2004 Syllabus and Schedule Su22.pdf",
                    "Crimes Against Matrices", "Attaway Ch 3–3.2"],
-        lectures=["Jaisohn Introduction", "Very Brief Course Policies Review", "Tips for Success",
-                   "What is ME 2004?", "Matrix Terminology Review",
+        lectures=["Tips for Success", "What is ME 2004?", "Matrix Terminology Review",
                    "MATLAB Environment, Script Files, and Publishing"],
         duration="50:10"),
-      dict(date="Thursday, July 7",
+      dict(date="Thursday",
         readings=["Attaway Ch 1–1.5 (skip 1.4.5)", "Attaway Ch 2 (skip 2.4)", "Attaway Ch 3.3–3.6"],
         lectures=["MATLAB Basics", "The fprintf() Command", "Plotting", "Bell Curve", "Hookian Springs",
                    "RLC Circuit", "Manning's Equation"],
         duration="71:31"),
-      dict(date="Friday, July 8",
+      dict(date="Friday",
         readings=["Attaway Ch 2.4", "Attaway Ch 4 (4.4 optional but highly recommended)", "Attaway Ch 5"],
         lectures=["Relational Operators (1/2)", "Relational Operators (2/2)", "Logical Operators (1/2)",
                    "Logical Operators (2/2)", "If Statements", "Repetition Structures (1/3)",
@@ -81,7 +170,7 @@ WEEKS = [
         duration="63:09"),
     ]),
   dict(
-    num=2, dates="July 11 – July 17, 2022",
+    num=2,
     blurb="""This week's content builds on your MATLAB foundation. Monday's videos introduce anonymous
     functions and function .m-files. Wednesday's videos cover the Unit Step Function, arguably one of the
     most important functions in all of engineering — the first two are given by Dr. Brian Vick, a ME
@@ -89,62 +178,59 @@ WEEKS = [
     examine the big picture: why mathematical modeling is important and strategies for debugging code.
     Friday's videos cover numerical errors, used extensively starting in Week 4.""",
     days=[
-      dict(date="Monday, July 11",
+      dict(date="Monday",
         readings=["Attaway Ch 3.7–3.9", "Attaway Ch 6–6.3 (Ch 6.4 optional but highly recommended)",
                    "Attaway 10.2–10.4"],
         lectures=["Function .m Files (1/2)", "Function .m Files (2/2)", "Anonymous Functions (1/2)",
                    "Anonymous Functions (2/2)", "Software Development Process"],
         duration="56:16"),
-      dict(date="Tuesday, July 12", readings=["N/A"],
+      dict(date="Tuesday", readings=["N/A"],
         lectures=["Lateral Acceleration of a Vehicle (1/2)", "Lateral Acceleration of a Vehicle (2/2)",
                    "Change Maker (1/3)", "Change Maker (2/3)", "Change Maker (3/3)",
                    "Annually Compounded Interest (1/3)", "Annually Compounded Interest (2/3)",
                    "Annually Compounded Interest (3/3)"],
         duration="63:40"),
-      dict(date="Wednesday, July 13",
-        readings=["Vick Ch 4–4.5.2", "heaviside() MATLAB documentation",
+      dict(date="Wednesday",
+        readings=["heaviside() MATLAB documentation",
                    "Heaviside/Unit Step Function (Wikipedia) (optional)"],
         lectures=["Unit Step Function (1/2)", "Unit Step Function (2/2)", "Projectile Velocity (1/2)",
                    "Projectile Velocity (2/2)"],
         duration="66:33"),
-      dict(date="Thursday, July 14",
-        readings=["Attaway Ch 6.5", "Techniques for Debugging MATLAB M-files (Columbia).pdf (optional)",
-                   "Vick Ch 2", "Vick Ch 3 (skip 3.3 and 3.4)"],
-        lectures=["Debugging in MATLAB", "Physical Processes & Mathematical Modeling"],
+      dict(date="Thursday",
+        readings=["Attaway Ch 6.5", "Techniques for Debugging MATLAB M-files (Columbia).pdf (optional)"],
+        lectures=["Physical Processes & Mathematical Modeling"],
         duration="57:53"),
-      dict(date="Friday, July 15", readings=["Short Webpage on Errors (optional)"],
+      dict(date="Friday", readings=["Short Webpage on Errors (optional)"],
         lectures=["Numerical Errors (1/2)", "Numerical Errors (2/2)"],
         duration="27:44"),
     ]),
   dict(
-    num=3, dates="July 18 – July 24, 2022",
+    num=3,
     blurb="""This week is dedicated to Linear Algebra — arguably the most important numerical methods
-    topic. Monday reviews concepts from MATH 2114 plus introductory examples; Tuesday covers more complex
-    examples; Wednesday introduces the Matrix Inverse and Vector/Matrix norms. Thursday we switch gears to
-    Curve Fitting, an application of Linear Algebra, and Friday covers Nonlinear Regression and 1D Linear
-    Interpolation. The Midterm Exam is Monday, 7/25 and covers everything through this Friday's class.""",
+    topic. Monday reviews concepts from a Linear Algebra math course plus introductory examples; Tuesday
+    covers more complex examples; Wednesday introduces the Matrix Inverse and Vector/Matrix norms.
+    Thursday we switch gears to Curve Fitting, an application of Linear Algebra, and Friday covers
+    Nonlinear Regression and 1D Linear Interpolation. The Midterm Exam follows on the next Monday and
+    covers everything through this Friday's class.""",
     days=[
-      dict(date="Monday, July 18",
-        readings=["Vick Ch 5.1–5.7 (5.3 optional but highly recommended)",
-                   "Vick Ch 5.8–5.10 (only if you need a refresher on row operations/Gauss-Jordan elimination)"],
+      dict(date="Monday", readings=["N/A"],
         lectures=["Linear Algebra Intro", "Solving Linear Algebra Problems in MATLAB",
                    "Existence and Uniqueness of Solutions", "Rope Tension (1/2)", "Rope Tension (2/2)"],
         duration="42:13"),
-      dict(date="Tuesday, July 19", readings=["N/A"],
+      dict(date="Tuesday", readings=["N/A"],
         lectures=["Wheatstone Bridge (1/2)", "Wheatstone Bridge (2/2)", "Column Elongation",
                    "Traffic Network (1/2)", "Traffic Network (2/2)"],
         duration="58:59"),
-      dict(date="Wednesday, July 20", readings=["Vick Ch 5.13"],
+      dict(date="Wednesday", readings=["N/A"],
         lectures=["Matrix Inverse", "Vector/Matrix Norms", "Reactor Concentrations", "Truss (1/2)",
                    "Truss (2/2)"],
         duration="54:25"),
-      dict(date="Thursday, July 21",
-        readings=["Vick Ch 5.14", 'Kiusalaas Ch 3.4 (only up to the "Fitting Linear Forms" section)',
+      dict(date="Thursday",
+        readings=['Kiusalaas Ch 3.4 (only up to the "Fitting Linear Forms" section)',
                    "MATLAB fit() Documentation", "fit() Postprocessing (read coeffvalues() and plot() docs)"],
-        lectures=["Curve Fitting (1/2)", "Curve Fitting (2/2)", "Charles's Law",
-                   "What is Least-Squares Estimation? (optional)"],
+        lectures=["Curve Fitting (1/2)", "Curve Fitting (2/2)", "Charles's Law"],
         duration="75:50, excluding optional video"),
-      dict(date="Friday, July 22",
+      dict(date="Friday",
         readings=["List of Library Models for Curve/Surface Fitting",
                    'Kiusalaas Ch 3.4 (only the "Fitting Exponential Functions" section)',
                    "Linear Interpolation (Westerink, University of Notre Dame).pdf",
@@ -154,61 +240,60 @@ WEEKS = [
                    "Linear Interpolation (1/2)", "Linear Interpolation (2/2)", "Steam Table Interpolation"],
         duration="53:51"),
     ],
-    callout="The Midterm Exam is Monday, 7/25 — it covers everything from the first day of class up to "
-            "and including Friday, 7/22."),
+    callout="The Midterm Exam is the following Monday — it covers everything from the first day of class "
+            "up to and including this Friday's class."),
   dict(
-    num=4, dates="July 25 – July 31, 2022",
+    num=4,
     blurb="""Last week we learned about Linear Algebra. This week we learn about Nonlinear Algebra, a.k.a.
     Root Finding — how to solve equations that cannot (or cannot easily) be linearized. Tuesday introduces
     the Graphical and Bisection Methods, Wednesday introduces Newton-Raphson, and Thursday introduces
     MATLAB's built-in solver fzero().""",
-    callout="The Midterm Exam is Monday, 7/25! It covers everything through Friday, 7/22.",
+    callout="The Midterm Exam is Monday! It covers everything through last Friday's class.",
     days=[
-      dict(date="Monday, July 25", readings=["Midterm Exam Guidelines Su22.pdf"],
+      dict(date="Monday", readings=["Midterm Exam Guidelines Su22.pdf"],
         note="No lectures today due to the Midterm Exam. Good luck!"),
-      dict(date="Tuesday, July 26",
-        readings=["Vick Ch 6–6.5", "Kiusalaas Ch 4–4.3",
+      dict(date="Tuesday",
+        readings=["Kiusalaas Ch 4–4.3",
                    "Bisection Method Overview and Examples (optional)"],
         lectures=["Root Finding Introduction", "Root Finding: Graphical Method", "Bisection Method",
                    "Manual Iterations of the Bisection Method",
                    "MATLAB Implementation of the Bisection Method", "Critical Channel Depth"],
         duration="51:19"),
-      dict(date="Wednesday, July 27",
-        readings=["Vick Ch 6.7", "Kiusalaas Ch 4.5",
+      dict(date="Wednesday",
+        readings=["Kiusalaas Ch 4.5",
                    "Newton-Raphson Method Overview and Examples (optional)"],
         lectures=["Newton-Raphson Method", "Manual Iterations of the Newton-Raphson Method",
                    "MATLAB Implementation of the Newton-Raphson Method", "ODE Fixed Points"],
         duration="23:23"),
-      dict(date="Thursday, July 28", readings=["MATLAB fzero() Documentation"],
+      dict(date="Thursday", readings=["MATLAB fzero() Documentation"],
         lectures=["The fzero() Function", "Redlich–Kwong Equation", "Population Study"],
         duration="25:42"),
-      dict(date="Friday, July 29", readings=["Moody Chart Wikipedia page (optional)"],
+      dict(date="Friday", readings=["Moody Chart Wikipedia page (optional)"],
         lectures=["Moody Diagram (1/2)", "Moody Diagram (2/2)"], duration="62:16"),
     ]),
   dict(
-    num=5, dates="August 1 – August 7, 2022",
+    num=5,
     blurb="""We switch gears to Numerical Differentiation and Integration. Monday covers Numerical
     Differentiation; Tuesday reviews the Unit Step Function and covers the Unit Pulse and Delta Function;
     Wednesday covers the Trapezoid Rule (and its variants), concluding the Calculus unit. Friday begins the
     final unit of the course: ODEs, starting with 1st order ODEs and sketching phase portraits.""",
     days=[
-      dict(date="Monday, August 1", readings=["Vick Ch 4–4.2.2", "Kiusalaas Ch 5–5.2"],
+      dict(date="Monday", readings=["Kiusalaas Ch 5–5.2"],
         lectures=["Numerical Differentiation", "Stopping Distances", "Vehicle Pitch Rate (1/2)",
                    "Vehicle Pitch Rate (2/2)", "Numerical Differentiation: Step Size Exploration"],
         duration="52:00"),
-      dict(date="Tuesday, August 2", readings=["Vick Ch 4.3–4.3.2, 4.5"],
+      dict(date="Tuesday", readings=["N/A"],
         lectures=["Integration Review", "Step/Delta Integrals", "Pulse Function (1/2)",
                    "Pulse Function (2/2)"],
         duration="58:06"),
-      dict(date="Wednesday, August 3",
-        readings=["Vick Ch 4.6–4.6.2",
-                   'Kiusalaas Ch 6–6.2 (only up to the "Recursive Trapezoidal Rule" section)',
+      dict(date="Wednesday",
+        readings=['Kiusalaas Ch 6–6.2 (only up to the "Recursive Trapezoidal Rule" section)',
                    "trapz(), cumtrapz(), integral() MATLAB Documentation"],
         lectures=["Trapezoidal Rule Review", "Trapezoidal Rule Demo", "Shear/Moment Diagrams",
                    "Mechanical Work", "Space-Time Diagrams"],
         duration="45:55"),
-      dict(date="Thursday, August 4", readings=["N/A"], note="No class — work on this week's assignments."),
-      dict(date="Friday, August 5", readings=["Vick Ch 7–7.2"],
+      dict(date="Thursday", readings=["N/A"], note="No class — work on this week's assignments."),
+      dict(date="Friday", readings=["N/A"],
         lectures=["ODEs Introduction", "1st Order ODEs Overview",
                    "Sketching Phase Portraits and Anticipated Solutions (1/3)",
                    "Sketching Phase Portraits and Anticipated Solutions (2/3)",
@@ -216,24 +301,24 @@ WEEKS = [
         duration="59:58"),
     ]),
   dict(
-    num=6, dates="August 8 – August 12, 2022",
+    num=6,
     blurb="""We finish ODEs on Tuesday, solving them numerically with MATLAB's built-in solver ode45().
     Wednesday and Thursday have no new readings/lectures — use the time to wrap up assignments (all due
-    Thursday 8/11) and prepare for the Final Exam, administered Friday, 8/12.""",
+    Thursday) and prepare for the Final Exam, administered Friday.""",
     days=[
-      dict(date="Monday, August 8",
-        readings=["Vick Ch 7.2", "ode45() and Summary of ODE Options — MATLAB documentation"],
+      dict(date="Monday",
+        readings=["ode45() and Summary of ODE Options — MATLAB documentation"],
         lectures=["The ode45() Function", "Skydiver (1/2)", "Skydiver (2/2)", "Population Model (1/2)",
                    "Population Model (2/2)", "Lumped Thermal Mass (1/2)", "Lumped Thermal Mass (2/2)"],
         duration="56:57",
         note="All Monday videos were cancelled that term, but are left here in case you want to watch."),
-      dict(date="Tuesday, August 9",
-        readings=["Vick Ch 7.3, 7.5", "Kiusalaas Ch 7.1",
+      dict(date="Tuesday",
+        readings=["Kiusalaas Ch 7.1",
                    "A brief introduction to using ode45 in MATLAB (Berkeley).pdf (optional)"],
         note="Lectures cancelled."),
-      dict(date="Wednesday, August 10", readings=["N/A"], note="No class."),
-      dict(date="Thursday, August 11", readings=["N/A"], note="No class — all Week 6 assignments due tonight."),
-      dict(date="Friday, August 12", readings=["Final Exam Guidelines Su22.pdf"],
+      dict(date="Wednesday", readings=["N/A"], note="No class."),
+      dict(date="Thursday", readings=["N/A"], note="No class — all Week 6 assignments due tonight."),
+      dict(date="Friday", readings=["Final Exam Guidelines Su22.pdf"],
         note="Final Exam."),
     ]),
 ]
@@ -298,8 +383,6 @@ def render_video_list(titles):
 
 def render_day(day):
     date = day["date"]
-    if "lectures" not in day and "readings" in day and day.get("readings") == ["N/A"] and "note" not in day:
-        pass
     parts = [f'<article class="day">', f'<h3>{esc(date)}</h3>']
     if day.get("note"):
         parts.append(f'<p class="note">{esc(day["note"])}</p>')
@@ -318,12 +401,11 @@ def render_day(day):
 
 def render_week(w):
     prev = f'<a href="week{w["num"]-1}.html" class="prevnext">← Week {w["num"]-1}</a>' if w["num"] > 1 else '<span></span>'
-    nextw = f'<a href="week{w["num"]+1}.html" class="prevnext">Week {w["num"]+1} →</a>' if w["num"] < TOTAL_WEEKS else \
-            (f'<a href="final.html" class="prevnext">Final Exam →</a>' if False else '<span></span>')
+    nextw = f'<a href="week{w["num"]+1}.html" class="prevnext">Week {w["num"]+1} →</a>' if w["num"] < TOTAL_WEEKS else '<span></span>'
     callout = f'<p class="callout">⚠️ {esc(w["callout"])}</p>' if w.get("callout") else ""
     days_html = "\n".join(render_day(d) for d in w["days"])
     body = f"""
-<div class="weeknav">{prev}<h1>Week {w['num']} <small>{esc(w['dates'])}</small></h1>{nextw}</div>
+<div class="weeknav">{prev}<h1>Week {w['num']}</h1>{nextw}</div>
 <p class="blurb">{esc(w['blurb']).strip()}</p>
 {callout}
 <div class="days">
@@ -332,7 +414,7 @@ def render_week(w):
 <div class="weeknav bottom">{prev}{nextw}</div>
 """
     return page_shell(f"Week {w['num']}", f"week{w['num']}.html", body,
-                       description=f"Week {w['num']} reading and lecture schedule for ME 2004, {w['dates']}.")
+                       description=f"Week {w['num']} reading and lecture schedule for ME 2004.")
 
 def render_index():
     cards = []
@@ -340,15 +422,14 @@ def render_index():
         cards.append(f"""
         <a class="weekcard" href="week{w['num']}.html">
           <h3>Week {w['num']}</h3>
-          <p class="dates">{esc(w['dates'])}</p>
         </a>""")
     body = f"""
 <section class="hero">
   <h1>Numerical Methods Video Lectures</h1>
-  <p class="lede">This site provides an organized video guide for ME 2004: Engineering Analysis Using Numerical Methods at Virginia Tech. 
+  <p class="lede">This site provides an organized video guide for ME 2004: Engineering Analysis Using Numerical Methods at Virginia Tech.
   Use the outline below to see the recommended viewing sequence and where each video fits within the progression of the course.
 
-The schedule reflects the course as it was taught during a 6-week summer session. More recent versions of ME 2004 may use a different schedule, topic sequence, or set of materials, so current students should follow their instructor’s guidance.</p>
+The schedule reflects the course as it was taught during a 6-week summer session. More recent versions of ME 2004 may use a different schedule, topic sequence, or set of materials, so current students should follow their instructor's guidance.</p>
   <p>Every lecture links out to Jaisohn's YouTube channel,
      <a href="{CHANNEL}" target="_blank" rel="noopener">@jaisohnkim</a>, which hosts the full video library
      of MATLAB and numerical-methods tutorials.</p>
@@ -419,12 +500,10 @@ h3{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;}
 .weekcard{display:block;background:var(--panel);border:1px solid var(--line);border-radius:var(--radius);
   padding:16px 18px;text-decoration:none;color:var(--ink);transition:border-color .15s, transform .15s;}
 .weekcard:hover{border-color:var(--accent);transform:translateY(-1px);}
-.weekcard h3{margin:0 0 4px;font-size:1.1rem;color:var(--accent-ink);}
-.weekcard .dates{margin:0;color:var(--muted);font-size:0.9rem;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;}
+.weekcard h3{margin:0;font-size:1.1rem;color:var(--accent-ink);}
 
 .weeknav{display:flex;align-items:baseline;justify-content:space-between;gap:12px;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;flex-wrap:wrap;}
 .weeknav h1{margin:0;font-size:1.6rem;flex:1;text-align:center;}
-.weeknav h1 small{display:block;color:var(--muted);font-size:0.95rem;font-weight:400;margin-top:2px;}
 .weeknav.bottom{margin-top:2.5em;padding-top:1em;border-top:1px solid var(--line);}
 .prevnext{text-decoration:none;font-weight:600;white-space:nowrap;}
 

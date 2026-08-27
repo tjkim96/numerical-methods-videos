@@ -41,12 +41,10 @@ h3{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;}
 .weekcard{display:block;background:var(--panel);border:1px solid var(--line);border-radius:var(--radius);
   padding:16px 18px;text-decoration:none;color:var(--ink);transition:border-color .15s, transform .15s;}
 .weekcard:hover{border-color:var(--accent);transform:translateY(-1px);}
-.weekcard h3{margin:0 0 4px;font-size:1.1rem;color:var(--accent-ink);}
-.weekcard .dates{margin:0;color:var(--muted);font-size:0.9rem;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;}
+.weekcard h3{margin:0;font-size:1.1rem;color:var(--accent-ink);}
 
 .weeknav{display:flex;align-items:baseline;justify-content:space-between;gap:12px;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;flex-wrap:wrap;}
 .weeknav h1{margin:0;font-size:1.6rem;flex:1;text-align:center;}
-.weeknav h1 small{display:block;color:var(--muted);font-size:0.95rem;font-weight:400;margin-top:2px;}
 .weeknav.bottom{margin-top:2.5em;padding-top:1em;border-top:1px solid var(--line);}
 .prevnext{text-decoration:none;font-weight:600;white-space:nowrap;}
 
