@@ -344,10 +344,11 @@ def render_index():
         </a>""")
     body = f"""
 <section class="hero">
-  <h1>Numerical Methods, video by video</h1>
-  <p class="lede">This site mirrors the Canvas shell for <strong>ME 2004 — Engineering Analysis: Numerical
-  Methods</strong> (Summer 2022), taught by Jaisohn Kim, so that anyone in the world can follow the same
-  reading-and-lecture schedule the class used — in the order it was designed to be watched.</p>
+  <h1>Numerical Methods Video Lectures</h1>
+  <p class="lede">This site provides an organized video guide for ME 2004: Engineering Analysis Using Numerical Methods at Virginia Tech. 
+  Use the outline below to see the recommended viewing sequence and where each video fits within the progression of the course.
+
+The schedule reflects the course as it was taught during a 6-week summer session. More recent versions of ME 2004 may use a different schedule, topic sequence, or set of materials, so current students should follow their instructor’s guidance.</p>
   <p>Every lecture links out to Jaisohn's YouTube channel,
      <a href="{CHANNEL}" target="_blank" rel="noopener">@jaisohnkim</a>, which hosts the full video library
      of MATLAB and numerical-methods tutorials.</p>
@@ -356,10 +357,9 @@ def render_index():
 <section>
   <h2>How to use this site</h2>
   <ol class="howto">
-    <li>Pick a week below (there are six, covering MATLAB fundamentals through ODEs).</li>
-    <li>For each day, do the listed <strong>readings</strong> first, then watch the <strong>lectures</strong>
-        in order — most videos are split into short (1/2), (2/2)/(1/3)…(3/3) segments.</li>
-    <li>The schedule is a suggestion, not a strict deadline — pace yourself across the week.</li>
+    <li>For each day, do the listed <strong>Readings</strong> first, then watch the <strong>lectures</strong>
+        in order. Most videos are split into short sequences.</li>
+    <li>The schedule is a suggestion, not a strict deadline. Pace yourself across the week.</li>
   </ol>
 </section>
 
@@ -370,13 +370,7 @@ def render_index():
   </div>
 </section>
 
-<section>
-  <h2>About the videos</h2>
-  <p>Video titles link directly to the matching lecture whenever the exact video could be identified;
-     otherwise the link opens a search for that exact title on the
-     <a href="{CHANNEL}/videos" target="_blank" rel="noopener">channel's video library</a> — click the
-     top result. A dagger-free link (▶) always points at YouTube, never at a re-hosted copy.</p>
-</section>
+
 """
     return page_shell("Home", "index.html", body,
                        description="An unofficial mirror of the ME 2004 Numerical Methods Canvas course "
